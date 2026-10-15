@@ -1,11 +1,11 @@
 <div align="center">
 
 # Varshith Reddy Kuppireddy
-### Data Scientist · Machine Learning Engineer · Generative AI
+### Data Scientist · Machine Learning Engineer · AI Engineer
 
-Building production-minded machine learning systems, explainable AI solutions, and data products using Python, SQL, deep learning, LLMs, APIs, cloud platforms, and MLOps.
+Turning data into actionable insights through statistical analysis, predictive modeling, and explainable AI.
 
-[View Repositories](https://github.com/varshithredd?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/varshith-reddy-a54891227/)
+[LinkedIn](https://www.linkedin.com/in/varshith-reddy-kuppireddy-7b6298354/) · [Email](mailto:varshithreddykuppireddy2002@gmail.com) · [Explore My Repositories](https://github.com/varshithredd?tab=repositories)
 
 </div>
 
@@ -13,53 +13,56 @@ Building production-minded machine learning systems, explainable AI solutions, a
 
 ## About Me
 
-I am a Data Scientist and Machine Learning Engineer with 3+ years of experience applying statistical analysis, machine learning, predictive modeling, and data engineering techniques to healthcare and technology problems. I enjoy turning raw data into reliable models and deployable applications, with a particular interest in explainable AI, NLP, computer vision, generative AI, and scalable ML workflows.
+I am a Data Scientist with 4+ years of experience applying analytical methods, machine learning, and statistical techniques to business challenges. My work spans banking analytics, enterprise predictive modeling, and healthcare AI projects.
 
-I completed a Master's degree in Computer Science and Information Technology at Sacred Heart University with a 3.89 GPA and hold a Bachelor's degree in Electronics and Communication Engineering from NIT Silchar.
+I build machine learning workflows with Python and SQL, from data preparation and feature engineering to model evaluation, APIs, and deployment. My interests include explainable AI, natural language processing, generative AI, and scalable analytical solutions.
 
-## Core Skills
+## Professional Experience
 
-**Programming & Analytics**  
-Python · SQL · R · SAS · Statistical Inference · Hypothesis Testing · A/B Testing · Regression · Bayesian Inference · Time-Series Analysis
+| Role | Organization | Dates | Focus |
+| --- | --- | --- | --- |
+| Data Scientist | Capital One · McLean, VA, USA | August 2025 – Present | Banking analytics, risk assessment, transaction analysis, and credit modeling |
+| Machine Learning Engineer | Cognizant · Hyderabad, India | June 2023 – November 2024 | Predictive analytics, preprocessing, feature engineering, and model validation |
+| Junior Data Scientist | HCL Tech · Hyderabad, India | January 2022 – May 2023 | Statistical analysis, data preparation, and predictive modeling |
 
-**Machine Learning & Deep Learning**  
-Scikit-learn · TensorFlow · PyTorch · Keras · XGBoost · Random Forest · Gradient Boosting · Neural Networks · LSTM · SHAP · Anomaly Detection
+## Technical Skills
 
-**Generative AI & NLP**  
-LLMs · RAG · LangChain · Hugging Face · Transformer Embeddings · Prompt Engineering · Vector Databases · NLP
+| Area | Technologies & Methods |
+| --- | --- |
+| Programming | Python, SQL, R, SAS |
+| Statistics & Experimentation | Statistical inference, hypothesis testing, confidence intervals, regression diagnostics, bootstrapping, sensitivity analysis, experimental design, A/B testing, cohort analysis, Bayesian inference |
+| Machine Learning | Scikit-learn, XGBoost, Random Forest, Gradient Boosting, linear and logistic regression, anomaly detection, SHAP |
+| Deep Learning & Time Series | TensorFlow, PyTorch, Keras, neural networks, ARIMA, LSTM |
+| Generative AI & NLP | LLMs, RAG, LangChain, Hugging Face, transformer embeddings, prompt engineering, vector databases |
+| Data & Cloud | AWS (SageMaker, S3, EMR, Redshift), Azure (Databricks, ADLS, Azure ML, Data Factory), Snowflake, Spark, PySpark, Hive, Hadoop, Airflow, Kafka |
+| Databases | PostgreSQL, MongoDB, Cassandra |
+| MLOps & Engineering | Docker, Kubernetes, FastAPI, REST APIs, GitHub Actions, CI/CD, MLflow, Git, model versioning, performance monitoring, data drift detection, automated retraining, inference optimization |
+| Visualization | Tableau, Power BI, Streamlit, KPI design |
 
-**Data Engineering & Cloud**  
-AWS · Azure · Snowflake · Spark · PySpark · Hadoop · Hive · Kafka · Airflow · PostgreSQL · MongoDB · Cassandra
+## Featured Projects
 
-**MLOps & Deployment**  
-Docker · Kubernetes · FastAPI · REST APIs · MLflow · GitHub Actions · CI/CD · Model Versioning · Monitoring · Data Drift Detection
+### Automated Candidate-Job Fit Analyzer (AI Agent)
 
-**Visualization**  
-Tableau · Power BI · Streamlit · KPI Design
+An AI-powered pipeline that evaluates resumes against job descriptions and generates weighted match scores with detailed insights.
 
-## Featured Project Work
+- Uses Sentence Transformers for semantic similarity beyond keyword matching.
+- Scores skills, experience, and education using weighted metrics.
+- Extracts and normalizes technical skills, tools, and qualifications with NLP.
+- Integrates the OpenAI API to identify missing skills and suggest improvements.
+- Provides an interactive Streamlit interface for real-time analysis and visualization.
 
-### Automated Candidate–Job Fit Analyzer — AI Agent
-An AI-powered resume-to-job matching pipeline designed to evaluate candidate fit beyond keyword matching.
+### Explainable AI System for Cardiovascular Risk Assessment
 
-- Semantic similarity scoring with Sentence Transformers
-- Weighted scoring across skills, experience, and education
-- NLP-based extraction and normalization of technical skills and qualifications
-- OpenAI API integration for missing-skill detection and candidate improvement recommendations
-- Interactive Streamlit interface for real-time analysis and score visualization
+A healthcare AI project combining retinal fundus images and clinical records for cardiovascular risk prediction.
 
-### Explainable AI for Cardiovascular Risk Assessment
-A multimodal healthcare AI system designed to predict cardiovascular risk while making model decisions easier to interpret.
+- Uses a CNN-based deep learning model and multimodal data.
+- Applies Grad-CAM to visualize retinal regions influencing predictions.
+- Integrates an OpenAI-powered assistant for readable risk explanations.
+- Uses a FastAPI backend and Docker for cloud deployment.
 
-- CNN-based deep-learning model for retinal fundus images
-- Multimodal modeling combining clinical records with medical imaging
-- Grad-CAM explainability for visualizing important retinal regions
-- OpenAI-powered clinical assistant for human-readable risk explanations
-- FastAPI backend and Docker-based deployment architecture
+## Explore My GitHub Projects
 
-## Existing GitHub Projects
-
-| Project | Focus |
+| Repository | Focus |
 | --- | --- |
 | [Potato Disease Classification](https://github.com/varshithredd/Potato-disease-classification-deep-learning-project) | Computer vision and deep learning |
 | [Intrusion Detection System](https://github.com/varshithredd/Intrusion-Detection-System) | Machine learning for cybersecurity |
@@ -67,27 +70,25 @@ A multimodal healthcare AI system designed to predict cardiovascular risk while 
 | [NLP Chatbot](https://github.com/varshithredd/NLP-chatbot-) | Natural language processing |
 | [NLP Project](https://github.com/varshithredd/NLP-Project) | NLP experimentation |
 
-## Current Focus
-
-- Production-ready machine learning systems
-- Generative AI and RAG applications
-- Explainable AI for healthcare
-- End-to-end ML pipelines and MLOps
-- Cloud-based model deployment
-- Data science and ML engineering opportunities in the United States
-
 ## Education
 
-**M.S. — Computer Science and Information Technology**  
-Sacred Heart University · GPA 3.89 · 2026
+**Master of Science, Computer Science and Information Technology**  
+Sacred Heart University · Fairfield, Connecticut, USA · 2026  
+GPA: **3.89**
 
-**B.Tech — Electronics and Communication Engineering**  
-National Institute of Technology, Silchar
+**Bachelor of Technology, Electronics and Communication Engineering**  
+National Institute of Technology, Silchar · Assam, India  
+GPA: **7.81**
+
+## Certification & Honors
+
+- Web Development Internship Certificate — Exposys Data Labs
+- Honor Society Award — Sacred Heart University, 2026
 
 ---
 
 <div align="center">
 
-### Open to Data Scientist · Machine Learning Engineer · AI Engineer opportunities
+**Open to Data Scientist, Machine Learning Engineer, and AI Engineer opportunities.**
 
 </div>
