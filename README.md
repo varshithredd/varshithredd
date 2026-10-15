@@ -5,7 +5,7 @@
 
 Turning data into actionable insights through statistical analysis, predictive modeling, and explainable AI.
 
-[LinkedIn](https://www.linkedin.com/in/varshith-reddy-kuppireddy-7b6298354/) · [Email](mailto:varshithreddykuppireddy2002@gmail.com) · [Explore My Repositories](https://github.com/varshithredd?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/varshith-reddy-a54891227/) · [Email](mailto:varshithreddykuppireddy2002@gmail.com) · [Explore My Repositories](https://github.com/varshithredd?tab=repositories)
 
 </div>
 
@@ -13,7 +13,7 @@ Turning data into actionable insights through statistical analysis, predictive m
 
 ## About Me
 
-I am a Data Scientist with 4+ years of experience applying analytical methods, machine learning, and statistical techniques to business challenges. My work spans banking analytics, enterprise predictive modeling, and healthcare AI projects.
+I am a Data Scientist with 3+ years of experience building machine learning models, predictive analytics solutions, and data pipelines across healthcare and financial services. I am proficient in Python, SQL, and cloud platforms, with a strong foundation in statistical inference, deep learning, and MLOps practices.
 
 I build machine learning workflows with Python and SQL, from data preparation and feature engineering to model evaluation, APIs, and deployment. My interests include explainable AI, natural language processing, generative AI, and scalable analytical solutions.
 
@@ -30,11 +30,11 @@ I build machine learning workflows with Python and SQL, from data preparation an
 | Area | Technologies & Methods |
 | --- | --- |
 | Programming | Python, SQL, R, SAS |
-| Statistics & Experimentation | Statistical inference, hypothesis testing, confidence intervals, regression diagnostics, bootstrapping, sensitivity analysis, experimental design, A/B testing, cohort analysis, Bayesian inference |
-| Machine Learning | Scikit-learn, XGBoost, Random Forest, Gradient Boosting, linear and logistic regression, anomaly detection, SHAP |
+| Statistics & Experimentation | Statistical inference, hypothesis testing, confidence intervals, regression diagnostics, multicollinearity diagnostics, bias-variance tradeoff, bootstrapping, sensitivity analysis, experimental design, A/B testing, cohort analysis, Bayesian inference |
+| Machine Learning | Scikit-learn, XGBoost, Random Forest, Gradient Boosting, linear and logistic regression, anomaly detection, data mining, SHAP |
 | Deep Learning & Time Series | TensorFlow, PyTorch, Keras, neural networks, ARIMA, LSTM |
 | Generative AI & NLP | LLMs, RAG, LangChain, Hugging Face, transformer embeddings, prompt engineering, vector databases |
-| Data & Cloud | AWS (SageMaker, S3, EMR, Redshift), Azure (Databricks, ADLS, Azure ML, Data Factory), Snowflake, Spark, PySpark, Hive, Hadoop, Airflow, Kafka |
+| Data & Cloud | AWS (SageMaker, S3, EMR, Redshift), Azure (Databricks, ADLS, Azure ML, Data Factory), Snowflake, Spark, PySpark, Hive, Hadoop, Airflow, Kafka, data wrangling, feature engineering |
 | Databases | PostgreSQL, MongoDB, Cassandra |
 | MLOps & Engineering | Docker, Kubernetes, FastAPI, REST APIs, GitHub Actions, CI/CD, MLflow, Git, model versioning, performance monitoring, data drift detection, automated retraining, inference optimization |
 | Visualization | Tableau, Power BI, Streamlit, KPI design |
